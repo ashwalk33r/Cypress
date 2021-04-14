@@ -1,0 +1,17 @@
+{
+  "name": "Cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "npx cypress open --browser chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
